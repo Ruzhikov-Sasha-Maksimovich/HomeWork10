@@ -1,4 +1,4 @@
-package job;
+package Новая_Папка;
 
 import java.util.Scanner;
 import java.util.Stack;
